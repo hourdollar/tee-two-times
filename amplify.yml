@@ -12,7 +12,7 @@ frontend:
         - nvm use 20
         - npm run build
   artifacts:
-    baseDirectory: build
+    baseDirectory: dist/teetwotimes
     files:
       - '**/*'
   cache:
