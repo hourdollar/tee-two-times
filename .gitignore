@@ -32,3 +32,6 @@ amplifytools.xcconfig
 
 # Ignore .env
 .env
+
+# Ignore .env
+.angular/cache
