@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/api": {
+      "name": "/api",
+      "lambdaFunction": "tee2function",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
